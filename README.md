@@ -12,7 +12,7 @@ They then continued to work on their idea and expand on it, until eventually the
 ---
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* The financial problem Zip Co solves:
 
 Zip Co fixes the issue of customers having to worry about saving, or going into interest based debt in order to purchase things. It lessens any financial short term restrictions customers may have.
 
@@ -24,9 +24,9 @@ This not only benefits the customers but also retailers/merchants, as it boosts 
 
 *'ZipPay is a good bet for those customers who will need more time to gather up the money for their purchases.'* - Nigel Ewart, Digital Outlook.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* Who is the Zip Co's intended customer?
 
-Zip has two intended customers, the retail customer and the retailer or merchant. Due to it being a payment/lending product, it facilitates the transaction between two the parties. 
+Zip has two intended customers, the retail customer and the retailer or merchant. Due to it being a payment/lending product, it facilitates the transaction between the two parties. 
 
 Zip has over 2 million customers in Australia and New Zealand. 
 
@@ -40,7 +40,7 @@ Furthermore according to [Trading Economics](https://tradingeconomics.com/austra
 *'Retail Sales YoY in Australia averaged 5.71 percent from 1983 until 2021, reaching an all time high of 25 percent in April of 2021 and a record low of -9.10 percent in April of 2020.'*
 This shows the constant growth within Zips target market. Covid did affect consumer spending only for it to bounce back harder in 2021, following various government and economic changes. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* The solution they offer that their competitors do not offer?
 
 Zip is a interest free lending provider with *'3 months (interest free) across all products and up to 36 months with some retailers'*. Unlike most credit cards who are mainly only interest free as long as you meet the monthly payments. 
 For example according to [Digital Outlook](https://www.digitaloutlook.com.au/need-know-lay-buy-services-afterpay-vs-zippay/#:~:text=ZipPay%20gives%20customers%20a%20credit,ranging%20from%20weekly%20to%20monthly.) *'ZipPay gives customers a credit line of up to $1,000 dollars. Unlike AfterPay, ZipPay.'* This gives the customers a much longer time period to pay back the money they borrowed. ZipPay also has a set minimum monthly repayment of $40. 
@@ -50,11 +50,11 @@ One of ZipPay's competitive advantages over AfterPay is that they cost less for 
 ***Please Refer to 'IMAGE2'*** *(attached)*
 ZipPay offers half the transaction fees, quicker merchant payment processing time and charges 30-50% less in commissions. 
 
-However Afterpay is more popular (and has a much higher valuation), as the company has various other advantages to their system.
+However, Afterpay is more popular (and has a much higher valuation). After Pay as the company has various other advantages to their system, making it is quite a competitive environment between the two. 
 
 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies is Zip Co currently using, and how are they implementing them?
 
 Not much information has been released regarding the subject of the underlying technologies and implementation. 
 However Zip Co did recently announce that they split the previous combined roles for technology oversight to create the new roles of Chief Technology Officer and Product Officer. 
@@ -65,11 +65,11 @@ Zip did suggest that they are using and developing lots of new technologies and 
 
 ## Financial Industry Landscape:
 
-* What domain of the financial industry is the company in?
+* What domain of the financial industry do they operate in?
 Zip Co is categorized under the Lending domain, with its services falling in the buy now pay later business model. 
 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* The major trends and innovations in Fintech Lending over the last 5-10 years:
 
 The major trend (as mentioned earlier), was increased consumer and retail based spending. Yet Australian national credit card debt fell to its lowest level in over 17 years, showing that people are moving away from credit cards, paying off their debts and possibly moving to BNPL (Buy now pay later) interest free lending solutions such as Zip. *'Retail payments data released by the Reserve Bank of Australia shows debt accruing interest on personal credit cards is down $9.31 billion from March 2020 to September 2021, to a total of just $17.68 billion – the lowest level since November 2003.'*
 *“Australians have paid down more than $9 billion in credit card debt since COVID-19 hit, a drop of over one third,”* stated Sally Tindall, RateCity.com.au research director.
@@ -80,46 +80,50 @@ This is because Zip is popular with online merchants as their lending services b
 
 Afterpay was founded in 2014 (shortly after Zip), with AfterPay's user base and market cap being considerably larger than that of Zip, as they are the main competitor and innovator in the space. 
 
-* What are the other major companies in this domain?
-After Pay is Zip Co's immediate and biggest competitor as they offer almost identical  services. After Pay however is reasonably bigger and more sucsessfull with a larger customer base, and larger market cap valuation. 
+* The major companies in this domain:
 
-Some other major companies within the lending domain are the Big 4 banks, Commonwealth Bank of Australia, Westpac Banking Corporation, Australia and New Zealand Banking Group, and National Australia Bank. All of which have credit card plans and services competing within the consumer lending industry.  
-credit card companies & banks
-after pay (include market cap), Paypal Buy now pay later
+After Pay is Zip Co's immediate and biggest competitor as they offer almost identical  services. After Pay however is reasonably bigger and more successful with a larger customer base, and larger market cap valuation.
+Another potentially big BNPL (buy now pay later) is PayPals recent move into the space with their product, PayPal Pay in 4. This offers a similar service to that of After Pay and Zip with some slight variations. PayPal's market cap is 9x bigger than Afterpay and 116 times bigger than Zip. Keep in mind that paypal's main valuation comes from their influence as a payment provider, not lending/BNPL services. PayPal has only recently moved into the Australian Lending space so they haven't gained as much momentum yet.
+
+Some other major companies are the Big 4 banks, Commonwealth Bank of Australia, Westpac Banking Corporation, Australia and New Zealand Banking Group (ANZ), and National Australia Bank (NAB). All of which have credit card plans and services competing with significant market share within the consumer lending industry.  
+
 
 ## Results
 
-* What has been the business impact of this company so far?
+* What has been the business impact of Zip Co so far?
+Zip has impacted other businesses by increasing the potential sales from customers. ZipPay increases sales by allowing customers to spend ahead, it also has affected online purchases as many online businesses have also benefited from BNPL services. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-metrics?
+* What are some of the core metrics that companies in this domain use to measure success? And how does Zip compare, based on these metrics?
+The main key metrics to compare lending buy now pay later services would be:
 
-revenue, market share market cap etc
-profitability
-users
+Users/adoption - This is important as it shows and represents the usable success of the product and the popularity it holds in the eyes of their customers. Adoption is one of the biggest goals for any fintech company, so users are the best way to measure that adoption.
+Zip Co has an estimated 9.9 million active users globally, whereis their main competitor After Pay has an astounding 16.2 million global users. 
 
-* How is your company performing relative to competitors in the same domain?
-reasonably 
-afterpay is bigger and better
+Revenue - Shows how much commissions and income they are generating.
+Zip Co's revenue was 102.1 million 2020 (yet 397.1 in 2021), and After Pay's was 519.2 million 2020 (a big difference)
 
-## Recommendations
+Profitability - This shows how successful their business model is, keeping in mind this metric can be distorted when a company makes large capital intensive purchases or acquisitions, which could benefit the company in the long run.
+However both Zip Co and Afterpay are both currently unprofitable, usually almost always reporting net losses.
+News.com said in an article that *The Australian market is saturated with BNPL providers with 12 listed on the Australian Stock Exchange, the most anywhere in the world.* As BNPL companies try to gain a competitive advantage and market share through undercutting their commissions and prices or through acquisitions it lowers the overall profitable opportunities in the space.
+
+Market cap - This represents the stock markets view and valuation of the company. Many fintech based companies rely on investments for their foundation, development and expansion. Often companies like Zip Co (which held its last funding round in 2021) hold many funding rounds, and their market cap represents their value within the space, and can be used as a metric for their success. 
+Zip Co raised $893.6M over the 8 rounds, with a market cap of 1.55B, and After Pay has had a total of 3 funding rounds raising $448.7 million, with a market cap of 19.97B. 
+
+Overall comparing Zip Co to After Pay clearly shows where ZIP Co stands within the industry. Afterpay makes such a good comparison because the two companies have nearly all products that are the biggest competitors.
+Zip Co is not the market leader and is quite far behind After Pay in the metrics discussed.
+Zip Co has gone on a spree of acquisitions recently, and has been focusing on their growth and development as a company to even include rebranding their logo, this all could benefit the company in the long run, already increased revenue year on year as shown above. It is most likely that their low profitability draws from their recent expansion. Their user count, although not the highest, is still insanely strong. Market cap and share price has plument recently which is assumed to be a market reacting to their late earnings/profitability report.
+*Zip (ASX:Z1P) CEO: ‘We’d be very, very profitable, but we’re reinvesting for growth’*
+With The Motley Fool commenting *'Perhaps this sluggish share price performance can be blamed on Zip’s lack of profitability.'*
+
+
+
+## Recommendations:
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-research and develop in crypto, adopt and intergate 
-continue to remain competitive in the space, effiencicy and cost, remain cheap etc
+A strong  or consideration for Zip Co would be for them to do research and development in the crypto and blockchain space. To potentially adopt and integrate, currently blockchain has many drawbacks, with gas fees etc. It is highly secure making it a good unhackable decentralized route for a lending and payment system such as Zip Co to pursue.
+It also helps them to continue to remain competitive in the space, they could even set up some sort of lending system, where a investor could deposit funds which are then used in the BNPL and issued out to customers and the return on that loan that Zip makes could be returned to the investor for providing the liquidity to facilitate the loa. This also lowers the risk that Zip takes on everytime a customer makes a loan based purchase, passing it onto the other investor in exchange for a reward. using decentralized databases and transactional services through the blockchain not only could reduce server and maintenance costs but increase the integrity and security of the transactions, customer information and IDs.
 
-* Why do you think that offering this product or service would benefit the company?
-exposerure, compettivie advantafe 
-
-* What technologies would this additional product or service utilize?
-
-blockhain
-
-* Why are these technologies appropriate for your solution?
-
-fintech, new ideas
-decentralised securty 
 
 ---
 ### *References* 
@@ -153,3 +157,10 @@ https://zip.co/investors/review-of-retail-payments-regulation-issues-paper-novem
 
 https://www.rfigroup.com/australian-banking-and-finance/news/australians-rein-their-credit-card-debt-during-lockdowns
  
+ https://au.linkedin.com/company/zip-co-limited
+
+https://www.dnb.com/business-directory/company-profiles.zip_co_limited.02648254ae3b5611e3a583f94e7c0bb9.html
+
+https://www.news.com.au/finance/money/investing/buy-now-pay-later-providers-reveal-millions-in-losses/news-story/a0cf57f1fb85b440cda6066322e6065d
+
+https://www.crunchbase.com/organization/afterpay-bb1f/company_financials
