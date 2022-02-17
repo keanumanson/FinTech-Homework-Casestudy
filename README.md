@@ -28,7 +28,8 @@ Zip has two intended customers, the retail customer and the retailer or merchant
 Zip has over 2 million customers in Australia and New Zealand. 
 
 The consumer retail market:
-[Screen Shot 2022-02-16 at 11.46.20 pm]
+***Please Refer to 'IMAGE1'*** *(attached)*
+
 In 2020, the Annual retail turnover in Australia was 349.9 billion dollars. 
 Zip's revenue was $397.1m in 2021 and 157.7 in 2020. 
 
@@ -40,7 +41,11 @@ Zip is a interest free lending provider with *'3 months (interest free) across a
 For example according to [Digital Outlook](https://www.digitaloutlook.com.au/need-know-lay-buy-services-afterpay-vs-zippay/#:~:text=ZipPay%20gives%20customers%20a%20credit,ranging%20from%20weekly%20to%20monthly.) *'ZipPay gives customers a credit line of up to $1,000 dollars. Unlike AfterPay, ZipPay.'* This gives the customers alot longer time period to pay back the money they borrowed. ZipPay also has a set minimum monthly repayment of $40. 
 
 ZipPay's main and biggest competitor is AfterPay, another very similar lay-buy service.
-One of ZipPay's competitive advantage over AfterPay is their lower cost to the retailer.  
+One of ZipPay's competitive advantages over AfterPay is that they cost less for the retailer.  
+***Please Refer to 'IMAGE2'*** *(attached)*
+ZipPay offers half the transaction fees, quicker merchant payment proccessing time and charge 30-50% less in commissions. 
+
+However Afterpay is more popular (and has a much higher valuation), as the company has various other advanatges to their system.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
